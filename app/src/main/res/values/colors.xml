@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- Color for article background color. -->
+    <color name="sectionBackground">#000000</color>
+
+    <!-- Color of date displayed next to article.  -->
+    <color name="dateColor">#4A7BA7</color>
+
+    <!-- Color of date displayed next to article.  -->
+    <color name="authorColor">#4A7BA7</color>
+
+
+
+
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MarsNews</string>
+
+    <!-- Text to display in the list when there are no earthquakes [CHAR LIMIT=NONE] -->
+    <string name="no_mars_news_activity">No mars news stories found.</string>
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection. Check connection.</string>
+
+    <!-- for the settings activity menu -->
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">MarsNews Article Settings</string>
+    <!-- The option that is shown before the user clicks on the option. For Order Articles By -->
+    <string name="settings_order_by_label">Order Articles By</string>
+    <!-- order_articles_by -->
+    <string name="settings_order_by_key" translatable="false">newest</string>
+    <string name="settings_order_by_default" translatable="false">Newest</string>
+    <!-- The option that is shown before the user clicks on the option. For Number of Articles Displayed -->
+    <string name="settings_Number_of_Articles_label">Number of Articles Displayed</string>
+    <string name="settings_max_articles_key" translatable="false">max_articles</string>
+    <string name="settings_max_articles_default" translatable="false">10</string>
+
+
+    <!-- Label for order-by option [CHAR LIMIT=20] -->
+    <string name="settings_order_articles_by_label">Newest</string>
+    <string name="settings_order_articles_by_value" translatable="false">newest</string>
+    <!-- Label for relevance most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_recent_label">Relevant</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">relevance</string>
+
+    <!-- defaults -->
+    <string name="default_author_name">John Smith</string>
+    <string name="default_article_title">Can we live on Mars?</string>
+    <string name="default_date">Mar 6, 2018</string>
+
+</resources>
